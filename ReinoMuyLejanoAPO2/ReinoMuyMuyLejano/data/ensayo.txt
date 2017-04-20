@@ -1,0 +1,5 @@
+Dragona;01-01-0001;96011112768;Femenino;A+;Castillo de Fiona ;3753095;Casado;20;Superior;protectora;Empleado;5.0
+Loba vieja;03-10-0700;31970295;Femenino;0+;Cll 98b 100 45 ;3750395;Casado;1;Superior;Medico;loba;20.0
+Burro;26-03-0900;1144062692;Masculino;O+;Callejo diagon;3768872;Casado;20;Superior;Amo de casa;Desempleado;12.0
+Principe encantador;11-01-0920;8908920;Masculino;A+;Palacio Hada magica ;3753095;Soltero;0;Primaria;Guerrero;Desempleado;20.0
+Galletita;23-09-0970;145123480;Masculino;0+;Cra 27 con calle 123;3934407;Viudo;2;Superior;Programador;Desempleado;130.0

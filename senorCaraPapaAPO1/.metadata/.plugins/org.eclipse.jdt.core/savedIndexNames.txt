@@ -1,1 +1,0 @@
-INDEX VERSION 1.126+H:\II SEMESTRE\Algoritmos I\n2_senorCaraPapa\.metadata\.plugins\org.eclipse.jdt.core
